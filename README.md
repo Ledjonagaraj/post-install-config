@@ -96,13 +96,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
   Jane Doe:
 </p>
-  <img src="https://i.imgur.com/bVnwvJJ.png" height="75%" width="100%" alt="agent one access"/>
+  <img src="https://i.imgur.com/Dy9IQ2D.png" height="75%" width="100%" alt="agent one access"/>
+  <img src="https://i.imgur.com/3xeDxGt.png" height="75%" width="100%" alt="agent one access"/>
 <p>
   John Doe:
 </p>
 <p>
-  <img src="https://i.imgur.com/NcCP0v9.png" height="75%" width="100%" alt="agent two"/>
-  <img src="https://i.imgur.com/aKTJ01A.png" height="75%" width="100%" alt="agent two access"/>
+  <img src="https://i.imgur.com/TAbzVHj.png" height="75%" width="100%" alt="agent two"/>
+  <img src="https://i.imgur.com/Izdeo8Q.png" height="75%" width="100%" alt="agent two access"/>
 </p>
 <h3 align="center">Configure Users (customers)</h3>
 <br />
@@ -110,12 +111,13 @@ This tutorial outlines the post-install configuration of the open-source help de
   Admin Panel -> Users -> Add New.
 </p>
 <p>
-  Ken User:
+  ken:
 </p>
-  <img src="https://i.imgur.com/vbPd3uK.png" height="75%" width="100%" alt="user access"/>
+  <img src="https://i.imgur.com/w3XoMLn.png" height="75%" width="100%" alt="user access"/>
 <p>
-  Repeat the same above for Karen User.
+  karen:
 </p>
+  <img src="https://i.imgur.com/Q9oMIiJ.png" height="75%" width="100%" alt="user access"/>
 <br />
 <br />
 <h3 align="center">Configure SLA</h3>
@@ -133,9 +135,9 @@ This tutorial outlines the post-install configuration of the open-source help de
   Sev-C (8 hours, business hours):
 </p>
 <p>
-  <img src="https://i.imgur.com/6AAF3Ju.png" height="75%" width="100%" alt="sev one"/>
-  <img src="https://i.imgur.com/izcD74X.png" height="75%" width="100%" alt="sev two"/>
-  <img src="https://i.imgur.com/xKzdp7w.png" height="75%" width="100%" alt="sev three"/>
+  <img src="https://i.imgur.com/TxtpToT.png" height="75%" width="100%" alt="sev one"/>
+  <img src="https://i.imgur.com/gM0BZFa.png" height="75%" width="100%" alt="sev two"/>
+  <img src="https://i.imgur.com/OWJQFqy.png" height="75%" width="100%" alt="sev three"/>
 </p>
 <br />
 <br />
