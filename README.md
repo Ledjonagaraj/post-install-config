@@ -41,11 +41,11 @@ This tutorial outlines the post-install configuration of the open-source help de
   Supreme Admin:
 </p>
 <p>
-  <img src="https://i.imgur.com/SXpTf20.png" height="75%" width="100%" alt="Definitions"/>
-  <img src="https://i.imgur.com/9fBmrZj.png" height="75%" width="100%" alt="Permissions"/>
-  <img src="https://i.imgur.com/1sDBsuZ.png" height="75%" width="100%" alt="More Permissions"/>
-  <img src="https://i.imgur.com/2SVt7rt.png" height="75%" width="100%" alt="Even More Permissions"/>
-  <img src="https://i.imgur.com/vJl5MPw.png" height="75%" width="100%" alt="Sys Admin Success"/>
+  <img src="https://i.imgur.com/LnUrH1p.png" height="75%" width="100%" alt="Definitions"/>
+  <img src="https://i.imgur.com/2lakdaI.png" height="75%" width="100%" alt="Permissions"/>
+  <img src="https://i.imgur.com/XNhjXw5.png" height="75%" width="100%" alt="More Permissions"/>
+  <img src="https://i.imgur.com/hV7jIUZ.png" height="75%" width="100%" alt="Even More Permissions"/>
+  <img src="https://i.imgur.com/aJSPGKA.png" height="75%" width="100%" alt="Sys Admin Success"/>
 </p>
 <br />
 <br />
@@ -58,8 +58,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   System Administrators:
 </p>
 <p>
-  <img src="https://i.imgur.com/83gWQsO.png" height="75%" width="100%" alt="System Administrators"/>
-  <img src="https://i.imgur.com/oGLXmQv.png" height="75%" width="100%" alt="System Administrators"/>
+  <img src="https://i.imgur.com/7hclTh2.png" height="75%" width="100%" alt="System Administrators"/>
 </p>
 <br />
 <br />
@@ -69,10 +68,10 @@ This tutorial outlines the post-install configuration of the open-source help de
   Admin Panel -> Agents -> Teams.
 </p>
 <p>
-  Level II Support:
+  Online Banking:
 </p>
 <p>
-  <img src="https://i.imgur.com/BnPrcDH.png" height="75%" width="100%" alt="Level II Support"/>
+  <img src="https://i.imgur.com/p97HhHH.png" height="75%" width="100%" alt="Level II Support"/>
 </p>
 <br />
 <br />
@@ -85,7 +84,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   Make sure "Require registration and login to create tickets" is not selected:
 </p>
 <p>
-  <img src="https://i.imgur.com/QsJjOuM.png" height="75%" width="100%" alt="ticket creations"/>
+  <img src="https://i.imgur.com/lcw84SF.png" height="75%" width="100%" alt="ticket creations"/>
 </p>
 <br />
 <br />
@@ -97,7 +96,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
   Jane Doe:
 </p>
-  <img src="https://i.imgur.com/ujpOdKM.png" height="75%" width="100%" alt="agent one access"/>
+  <img src="https://i.imgur.com/bVnwvJJ.png" height="75%" width="100%" alt="agent one access"/>
 <p>
   John Doe:
 </p>
@@ -158,10 +157,14 @@ This tutorial outlines the post-install configuration of the open-source help de
   Password Reset.
 </p>
 <p>
-  <img src="https://i.imgur.com/Xdhp63v.png" height="75%" width="100%" alt="business critical outage"/>
-  <img src="https://i.imgur.com/3Y7k2o1.png" height="75%" width="100%" alt="personal computer issues"/>
-  <img src="https://i.imgur.com/Z0eIGea.png" height="75%" width="100%" alt="equipment request"/>
-  <img src="https://i.imgur.com/ndOdtTZ.png" height="75%" width="100%" alt="password reset"/>
+  Other.
+</p>
+<p> https://i.imgur.com/Kh7dO3w.png
+  <img src="https://i.imgur.com/IZpXV72.png" height="75%" width="100%" alt="business critical outage"/>
+  <img src="https://i.imgur.com/HdtlvON.png" height="75%" width="100%" alt="personal computer issues"/>
+  <img src="https://i.imgur.com/hfaK4lf.png" height="75%" width="100%" alt="equipment request"/>
+  <img src="https://i.imgur.com/Ersvju6.png" height="75%" width="100%" alt="password reset"/>
+  <img src="https://i.imgur.com/Kh7dO3w.png" height="75%" width="100%" alt="other"/>
 </p>
 <br />
 <br />
