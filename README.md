@@ -58,7 +58,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   System Administrators:
 </p>
 <p>
-  <img src="https://i.imgur.com/7hclTh2.png" height="75%" width="100%" alt="System Administrators"/>
+  <img src="https://i.imgur.com/1DFcd0Q.png" height="75%" width="100%" alt="System Administrators"/>
 </p>
 <br />
 <br />
