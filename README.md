@@ -161,7 +161,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
   Other.
 </p>
-<p> https://i.imgur.com/Kh7dO3w.png
   <img src="https://i.imgur.com/IZpXV72.png" height="75%" width="100%" alt="business critical outage"/>
   <img src="https://i.imgur.com/HdtlvON.png" height="75%" width="100%" alt="personal computer issues"/>
   <img src="https://i.imgur.com/hfaK4lf.png" height="75%" width="100%" alt="equipment request"/>
